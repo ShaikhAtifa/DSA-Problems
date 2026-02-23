@@ -24,3 +24,4 @@ class Solution {
     }
     
 }
+//Adding the Main Solution class only, U can run this program on online coding test platforms, or to run it locally, create a main function and call this function by inheriting the class Solution.
